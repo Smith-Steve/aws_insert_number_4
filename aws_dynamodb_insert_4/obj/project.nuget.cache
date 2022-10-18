@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ACf/Ec1FUt0BKK3PkzBND/anst07h1N9vxadUnLk85hUEVjO0k7Aq2Lpk/QkfAVeuq/l4U80m+fkWyppV6tTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\aws_dynamodb_insert_4\\aws_dynamodb_insert_4\\aws_dynamodb_insert_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\awssdk.core\\3.7.13.20\\awssdk.core.3.7.13.20.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.5.16\\awssdk.dynamodbv2.3.7.5.16.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
